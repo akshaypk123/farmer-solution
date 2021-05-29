@@ -9,9 +9,10 @@ Nowadays farmers face lot of crop loss. One of the major reasons for crop loss i
  
 ---
 <h2 align="center">  Project Members </h2>
-<ul>Dhanush Raj </br></ul>
-P N Parameshwaran </br> 
-Akshay P K </br>
-Abhishek Carmel Kurian
+
+- <b> Dhanush Raj </br>
+- P N Parameshwaran </br> 
+- Akshay P K </br>
+- Abhishek Carmel Kurian </b>
 
 
