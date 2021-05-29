@@ -6,7 +6,7 @@ Nowadays farmers face lot of crop loss. One of the major reasons for crop loss i
 - In our project we used Arduino to make this work. *[Arduino](https://www.arduino.cc/) is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button and turn it into an output - activating a motor and turning on an LED*. It is programmed in such a way that it sent constat signals in a specific area. When an animal enters that area the signal get reflects back and it is detected. This triggers the alarm and the lights. This is the basic working of our project. 
 - This is our first step in this area. We hope our project can make atleast small change to the problem faced. 
 
-A platform called [Tinkercad](https://www.tinkercad.com/things/flHpOFbJ1CN-arduino-simulator-and) where Ardruino simulations and coding are done
+A platform called [Tinkercad](https://www.tinkercad.com/things/flHpOFbJ1CN-arduino-simulator-and) where Ardruino simulations and coding are done is used.
 
 ---
 
