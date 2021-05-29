@@ -12,11 +12,14 @@ A platform called [Tinkercad](https://www.tinkercad.com/things/flHpOFbJ1CN-ardui
 
 <h3 >Arduino circuit connection</h3> 
 
+![ardruino](https://user-images.githubusercontent.com/78401783/120081303-ae9f2180-c0da-11eb-8767-03d182da1ded.png)
+
+
 ---
 
 <h2 align="center">  Project Members </h2>
 
-- <b> Dhanush Raj </br>
+- <b> Dhanush Raj R J</br>
 - P N Parameshwaran </br> 
 - Akshay P K </br>
 - Abhishek Carmel Kurian </b>
