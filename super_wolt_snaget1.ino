@@ -1,4 +1,4 @@
-
+#this is a code for Arduino for detecting animals in the farm lands and issue an alert to the farmer
 
 #define trigPin  13
 #define echoPin 12
